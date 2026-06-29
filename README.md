@@ -14,11 +14,15 @@
 
 ### 🧑‍💻 关于我 / About Me
 
-- 🎓 波士顿大学 数学统计本科 + 金融数学与金融科技硕士；已通过 **FRM 一级**
-- 🔭 约 2 年美国数据分析全职经验（科技 / 量化 / 人力分析）；独立负责 5 家长期客户、每年交付约 40 个看板
-- ⚙️ 从 0 到 1 独立交付 2 个 production 级全栈 SaaS（员工保留预测系统、海归福利助手）
-- 🤖 熟练用 **Cursor / Claude Code** 等 AI 工具做全栈开发
-- 📫 联系我：**weijiecao77@gmail.com**
+- 🎓 波士顿大学 数学统计本科 + 金融数学与金融科技硕士；已通过 **FRM 一级**<br>
+  *B.A. in Mathematics & Statistics + M.Sc. in Mathematical Finance & FinTech (Boston University); **FRM Part I***
+- 🔭 约 2 年美国数据分析全职经验（科技 / 量化 / 人力分析）；独立负责 5 家长期客户、每年交付约 40 个看板<br>
+  *2+ years of full-time data analytics in the US (fintech / quant / HR); owned 5 long-term clients, shipping ~40 dashboards a year*
+- ⚙️ 从 0 到 1 独立交付 2 个 production 级全栈 SaaS（员工保留预测系统、海归福利助手）<br>
+  *Shipped 2 production-grade full-stack SaaS apps from 0 to 1 (employee-retention prediction, returnee-benefits assistant)*
+- 🤖 熟练用 **Cursor / Claude Code** 等 AI 工具做全栈开发<br>
+  *Fluent with AI dev tools (Cursor / Claude Code) for full-stack development*
+- 📫 联系我 / Reach me：**weijiecao77@gmail.com**
 
 ### 🛠️ 技术栈 / Tech Stack
 
