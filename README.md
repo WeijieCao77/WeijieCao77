@@ -32,14 +32,3 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
-
-### 📊 GitHub 数据 / Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=WeijieCao77&show_icons=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeijieCao77&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=WeijieCao77&style=flat&color=blue" alt="profile views" />
-</p>
